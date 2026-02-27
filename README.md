@@ -1,22 +1,68 @@
-# AI Real Estate Lead Automation System
+#🤖 AI Real Estate Lead Automation System
 
-An AI-powered workflow automation project designed to qualify, segment, and respond to real estate leads automatically.
+An end-to-end AI-powered workflow automation solution designed to capture, qualify, segment, and respond to real estate leads automatically.
 
-## Overview
-This system integrates:
-- Google Sheets (lead capture)
-- Make (workflow orchestration)
-- OpenAI (AI response generation)
-- Gmail (automated client communication)
+##🚀 Project Overview
 
-## Key Features
-- Automatic lead qualification (Cold / Warm / Hot)
-- AI-generated personalized responses
-- Structured prompt engineering
-- End-to-end workflow automation
+This project demonstrates how Business Analysis expertise can be combined with AI and workflow orchestration tools to build intelligent automation systems.
 
-## Business Impact
-- Faster response time
-- Improved lead conversion
-- Process optimization
-- Reduced manual workload
+The system integrates:
+
+##📊 Google Sheets (Lead Capture & Data Storage)
+
+##🔄 Make (Workflow Automation Engine)
+
+##🧠 OpenAI (AI Response & Lead Classification)
+
+##📧 Gmail (Automated Client Communication)
+
+##🎯 Core Capabilities
+
+Automated lead qualification (Cold / Warm / Hot)
+
+AI-generated personalized client responses
+
+Structured prompt engineering for business communication
+
+Intelligent email formatting
+
+Workflow error handling and optimization
+
+##🏗️ System Architecture
+
+New lead captured via Google Sheets
+
+Make scenario triggers automatically
+
+AI analyzes lead details and classifies intent
+
+Personalized response generated
+
+Email sent via Gmail
+
+Lead data updated and logged
+
+##💡 Business Value
+
+Faster response time
+
+Improved conversion probability
+
+Reduced manual workload
+
+Standardized communication quality
+
+Scalable automation framework
+
+##🔧 Skills Demonstrated
+
+Business Process Analysis
+
+AI Prompt Engineering
+
+Workflow Orchestration
+
+Automation Architecture
+
+Real Estate Lead Management Systems
+
